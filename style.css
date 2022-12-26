@@ -91,7 +91,6 @@ a{
     flex-direction: column;
 }
 #education h1{
-    margin:2px;
     color: black;
 }
 .columns{
@@ -100,7 +99,7 @@ a{
     padding: 32px;
 }
 .box{
-    height: 170px;
+    height: 160px;
     width: 500px;
     background-color: black;
     border-radius: 20px;
